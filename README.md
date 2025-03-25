@@ -18,8 +18,8 @@ This repository contains interactive dashboards built using **Power BI** for dat
 
 | Dashboard Name         | Screenshot | Source Folder |
 |------------------------|------------|---------------|
-| **Sales Analytics** | ![Sales Analytics](SalesAnalytics/SalesAnalytics.png) | [📂 SalesAnalytics](./SalesAnalytics/) |
-| **Inventory Management** | ![Inventory Management](InventoryManagement/InventoryManagement.png) | [📂 InventoryManagement](./InventoryManagement/) |
+| **Sales Analytics** | ![Sales Analytics](SalesAnalysis/SalesAnalytics.png) | [📂 SalesAnalytics](./SalesAnalytics/) |
+| **Inventory Management** | ![Inventory Management](InventoryManagement/InventoryManagementScreenShot.png) | [📂 InventoryManagement](./InventoryManagement/) |
 | **Product Analytics** | ![Product Analytics](ProductAnalysis/ProductAnalytics.png) | [📂 ProductAnalysis](./ProductAnalysis/) |
 
 ## 📧 Contact
