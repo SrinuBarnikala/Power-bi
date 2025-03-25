@@ -21,7 +21,7 @@ This repository contains interactive dashboards built using **Power BI** for dat
 ### **Inventory Management**  
 ![Inventory Mangement Screenshot](InventoryManagementScreenShot.png) 
 ### **Product Analytics**  
-![Product Analytics Screenshot](ProductAnalytics.png) 
+![Product Analytics Screenshot](ProductAnalysis/ProductAnalytics.png) 
 
 ## 📧 Contact
 For any queries, reach out to **srinubarnikala222@gmail.com**.
