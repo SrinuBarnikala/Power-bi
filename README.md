@@ -5,12 +5,15 @@ This repository contains interactive dashboards built using **Power BI** for dat
 ## 🔹 Features
 - Interactive and dynamic dashboards  
 - Supports multiple datasets  
-- Customizable filters and visuals  
+- Customizable filters and visuals
+- Dynamic titles
+- Interactive charts 
 
 ## 🛠 Technologies Used
 - Power BI  
 - Data Modeling  
-- DAX (Data Analysis Expressions)  
+- DAX (Data Analysis Expressions)
+- Bookmarks   
 - SQL  
 - Machine Learning using Python  
 
@@ -22,7 +25,7 @@ This repository contains interactive dashboards built using **Power BI** for dat
 | **Inventory Management** | ![Inventory Management](InventoryManagement/InventoryManagementScreenShot.png) | [📂 InventoryManagement](./InventoryManagement/) |
 | **Product Analytics** | ![Product Analytics](ProductAnalysis/ProductAnalytics.png) | [📂 ProductAnalysis](./ProductAnalysis/) |
 | **Supply Chain Analysis** | ![Supply Chain Overview](SupplyChainAnalysis/OverViewPage.png) | [📂 SupplyChainAnalysis](./SupplyChainAnalysis/) |
-| **Plants Sales Analysis** | ![ Overview](PlantSaleAnalysis\/PlantSaleAnalysis.png) | [📂 SupplyChainAnalysis](./PlantSaleAnalysis\/) |
+| **Plants Sales Analysis** | ![ Overview](PlantSaleAnalysis\/PlantsSaleAnalysis.png) | [📂 SupplyChainAnalysis](./PlantSaleAnalysis\/) |
 
 ### 📦 **Supply Chain Analysis Pages**
 - **Overview Page**  
