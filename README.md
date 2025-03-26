@@ -25,7 +25,7 @@ This repository contains interactive dashboards built using **Power BI** for dat
 | **Inventory Management** | ![Inventory Management](InventoryManagement/InventoryManagementScreenShot.png) | [📂 InventoryManagement](./InventoryManagement/) |
 | **Product Analytics** | ![Product Analytics](ProductAnalysis/ProductAnalytics.png) | [📂 ProductAnalysis](./ProductAnalysis/) |
 | **Supply Chain Analysis** | ![Supply Chain Overview](SupplyChainAnalysis/OverViewPage.png) | [📂 SupplyChainAnalysis](./SupplyChainAnalysis/) |
-| **Plants Sales Analysis** | ![Dashboard Overview](PlantSaleAnalysis\/PlantsSaleAnalysis.png) | [📂 PlantsSaleAnalysis](./PlantSaleAnalysis\/) |
+| **Plants Sales Analysis** | ![Dashboard Overview](PlantSaleAnalysis/PlantsSaleAnalysis.png) | [📂 PlantsSaleAnalysis](./PlantSaleAnalysis\/) |
 
 ### 📦 **Supply Chain Analysis Pages**
 - **Overview Page**  
