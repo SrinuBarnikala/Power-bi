@@ -7,7 +7,8 @@ This repository contains interactive dashboards built using **Power BI** for dat
 - Supports multiple datasets  
 - Customizable filters and visuals
 - Dynamic titles
-- Interactive charts 
+- Interactive charts
+- Slicer for theme selection
 
 ## 🛠 Technologies Used
 - Power BI  
@@ -26,6 +27,7 @@ This repository contains interactive dashboards built using **Power BI** for dat
 | **Product Analytics** | ![Product Analytics](ProductAnalysis/ProductAnalytics.png) | [📂 ProductAnalysis](./ProductAnalysis/) |
 | **Supply Chain Analysis** | ![Supply Chain Overview](SupplyChainAnalysis/OverViewPage.png) | [📂 SupplyChainAnalysis](./SupplyChainAnalysis/) |
 | **Plants Sales Analysis** | ![Dashboard Overview](PlantsSaleAnalysis/PlantsSaleAnalysis.png) | [📂 PlantsSaleAnalysis](./PlantsSaleAnalysis\/) |
+| **Leaning and Development analysis** | ![Overview]() | [📂 Leaning&Development](./Learning&DevelopmentDashboard/) |
 
 ### 📦 **Supply Chain Analysis Pages**
 - **Overview Page**  
