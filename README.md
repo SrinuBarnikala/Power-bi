@@ -27,8 +27,9 @@ This repository contains interactive dashboards built using **Power BI** for dat
 | **Product Analytics** | ![Product Analytics](ProductAnalysis/ProductAnalytics.png) | [📂 ProductAnalysis](./ProductAnalysis/) |
 | **Supply Chain Analysis** | ![Supply Chain Overview](SupplyChainAnalysis/OverViewPage.png) | [📂 SupplyChainAnalysis](./SupplyChainAnalysis/) |
 | **Plants Sales Analysis** | ![Dashboard Overview](PlantsSaleAnalysis/PlantsSaleAnalysis.png) | [📂 PlantsSaleAnalysis](./PlantsSaleAnalysis\/) |
-| **Leaning and Development analysis** | ![Overview with theme Teal](Learning&DevelopmentDashboard/Screenshot 2025-03-28 165037.png) | [📂 Leaning&Development](./Learning&DevelopmentDashboard/) |
-| **Leaning and Development analysis** | ![Overview with theme Blue](Learning&DevelopmentDashboard/Screenshot 2025-03-28 165017.png) | [📂 Leaning&Development](./Learning&DevelopmentDashboard/) |
+| **Learning&dDevelopment Dashboard** | ![Dashboard Overview with theme1]() | [📂 Learning&Dashboard](./Learning&DevelopmentDashboard/) |
+| **Learning&dDevelopment Dashboard** | ![Dashboard Overview with theme2]() | [📂 Learning&Dashboard](./Learning&DevelopmentDashboard/) |
+
 
 ### 📦 **Supply Chain Analysis Pages**
 - **Overview Page**  
