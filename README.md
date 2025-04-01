@@ -9,6 +9,9 @@ This repository contains interactive dashboards built using **Power BI** for dat
 - Dynamic titles
 - Interactive charts
 - Slicer for theme selection
+- SVG Templates- Sparklines
+- Text search slicer
+- Field Parameters
 
 ## 🛠 Technologies Used
 - Power BI  
@@ -29,6 +32,8 @@ This repository contains interactive dashboards built using **Power BI** for dat
 | **Plants Sales Analysis** | ![Dashboard Overview](PlantsSaleAnalysis/PlantsSaleAnalysis.png) | [📂 PlantsSaleAnalysis](./PlantsSaleAnalysis\/) |
 | **Learning&dDevelopment Dashboard** | ![Dashboard Overview with theme1](Learning&DevelopmentDashboard/BlueTheme.png) | [📂 Learning&Dashboard](./Learning&DevelopmentDashboard/) |
 | **Learning&dDevelopment Dashboard** | ![Dashboard Overview with theme2](Learning&DevelopmentDashboard/TealTheme.png) | [📂 Learning&Dashboard](./Learning&DevelopmentDashboard/) |
+| **BMW Sales Dashboard** | ![Dashboard Overview ](BMW_Sales/main_page.png) | [📂 BMW_SalesDashboard](./BMW_Sales/) |
+| **BMW Sales Dashboard** | ![Dashboard Overview ](BMW_Sales/model_page.png) | [📂 BMW_SalesDashboard](./BMW_Sales/) |
 
 
 ### 📦 **Supply Chain Analysis Pages**
