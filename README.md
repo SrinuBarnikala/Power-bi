@@ -34,6 +34,7 @@ This repository contains interactive dashboards built using **Power BI** for dat
 | **Learning&dDevelopment Dashboard** | ![Dashboard Overview with theme2](Learning&DevelopmentDashboard/TealTheme.png) | [📂 Learning&Dashboard](./Learning&DevelopmentDashboard/) |
 | **BMW Sales Dashboard** | ![Dashboard Overview ](BMW_Sales/main_page.png) | [📂 BMW_SalesDashboard](./BMW_Sales/) |
 | **BMW Sales Dashboard** | ![Dashboard Overview ](BMW_Sales/model_page.png) | [📂 BMW_SalesDashboard](./BMW_Sales/) |
+| **Netflix Dashboard** | ![Dashboard Overview ](NetflixDashboard/image.png) | [📂 Dashboard](./NetflixDashboard/) |
 
 
 ### 📦 **Supply Chain Analysis Pages**
